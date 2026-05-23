@@ -1,0 +1,9 @@
+*.pdf
+*.hwpx
+*.dmg
+*.mp4
+*.heic
+*.sqlite*
+output*/
+pdfs/
+.venv/
