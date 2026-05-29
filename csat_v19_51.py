@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-CSAT V20 – Evidence‑Calibrated Multimodal Curriculum Reasoning Engine
+CSAT V19_51 – Evidence‑Calibrated Multimodal Curriculum Reasoning Engin
 =====================================================================
 V19.5 + 다른 AI 프롬프트 피드백 + 비동기 안정화를 모두 반영한 최종 버전.
 
